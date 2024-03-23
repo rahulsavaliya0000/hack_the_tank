@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140223746923",
+    "project_id": "hack-the-tank",
+    "storage_bucket": "hack-the-tank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140223746923:android:c270f29632d2c27c65b22e",
+        "android_client_info": {
+          "package_name": "com.example.hack_the_tank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATPbh9RQf_peg77rlUoOmCtO-3fzSy4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
